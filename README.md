@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:none;"> 
+<h3 align="left" style="display: none;">Languages and Tools:</h3>
+<p align="left" style="display: none;"> 
 	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 	</a> 
