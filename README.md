@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h3 align="center">A passionate frontend developer from xD</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
 	</a> 
 </p>
-
+-->
