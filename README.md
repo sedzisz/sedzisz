@@ -5,13 +5,6 @@ Welcome to my GitHub profile. Feel free to check out my repositories below!
 
 ---
 
-<!-- GitHub stats section -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <!-- Animated contribution graph generated via GitHub Actions -->
 <div align="center">
   <picture>
