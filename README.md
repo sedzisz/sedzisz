@@ -1,48 +1,15 @@
-## Hi there 👋
+<!-- Main greeting header -->
+# Hi there! 👋
 
-<!--
-**sedzisz/sedzisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. Feel free to check out my repositories below!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<h3 align="center">A passionate frontend developer from xD</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left" style="display: none;">Languages and Tools:</h3>
-<p align="left" style="display: none;"> 
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-	</a> 
-	<a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-	</a>
-	<a href="https://gohugo.io/" target="_blank" rel="noreferrer"> 
-		<img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-	</a> 
-	<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-	</a>
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	</a> 
-	<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-	</a>
-	<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-	</a> 
-</p>
--->
+<!-- Animated contribution graph generated via GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sedzisz/sedzisz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sedzisz/sedzisz/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/sedzisz/sedzisz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
